@@ -9,6 +9,7 @@ __pycache__/
 *.so
 *~
 .idea/*
+*.log*
 # due to using tox and pytest
 .tox
 .cache
